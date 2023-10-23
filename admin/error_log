@@ -1,0 +1,54 @@
+[29-Apr-2022 12:29:39 UTC] PHP Warning:  mysqli::query(): Empty query in /home1/ouraspire/public_html/panel/admin/epin_requests_received.php on line 140
+[29-Apr-2022 12:29:39 UTC] PHP Warning:  mysqli::query(): Empty query in /home1/ouraspire/public_html/panel/admin/epin_requests_received.php on line 140
+[29-Apr-2022 12:29:39 UTC] PHP Warning:  mysqli::query(): Empty query in /home1/ouraspire/public_html/panel/admin/epin_requests_received.php on line 140
+[29-Apr-2022 12:29:39 UTC] PHP Warning:  mysqli::query(): Empty query in /home1/ouraspire/public_html/panel/admin/epin_requests_received.php on line 140
+[29-Apr-2022 12:29:39 UTC] PHP Warning:  mysqli::query(): Empty query in /home1/ouraspire/public_html/panel/admin/epin_requests_received.php on line 140
+[29-Apr-2022 12:29:39 UTC] PHP Warning:  mysqli::query(): Empty query in /home1/ouraspire/public_html/panel/admin/epin_requests_received.php on line 140
+[29-Apr-2022 12:29:39 UTC] PHP Warning:  mysqli::query(): Empty query in /home1/ouraspire/public_html/panel/admin/epin_requests_received.php on line 140
+[29-Apr-2022 12:29:39 UTC] PHP Warning:  mysqli::query(): Empty query in /home1/ouraspire/public_html/panel/admin/epin_requests_received.php on line 140
+[29-Apr-2022 12:29:39 UTC] PHP Warning:  mysqli::query(): Empty query in /home1/ouraspire/public_html/panel/admin/epin_requests_received.php on line 140
+[29-Apr-2022 12:29:39 UTC] PHP Warning:  mysqli::query(): Empty query in /home1/ouraspire/public_html/panel/admin/epin_requests_received.php on line 140
+[29-Apr-2022 12:29:48 UTC] PHP Warning:  mysqli::query(): Empty query in /home1/ouraspire/public_html/panel/admin/epin_requests_received.php on line 140
+[29-Apr-2022 12:29:48 UTC] PHP Warning:  mysqli::query(): Empty query in /home1/ouraspire/public_html/panel/admin/epin_requests_received.php on line 140
+[29-Apr-2022 12:29:48 UTC] PHP Warning:  mysqli::query(): Empty query in /home1/ouraspire/public_html/panel/admin/epin_requests_received.php on line 140
+[29-Apr-2022 12:29:48 UTC] PHP Warning:  mysqli::query(): Empty query in /home1/ouraspire/public_html/panel/admin/epin_requests_received.php on line 140
+[29-Apr-2022 12:29:48 UTC] PHP Warning:  mysqli::query(): Empty query in /home1/ouraspire/public_html/panel/admin/epin_requests_received.php on line 140
+[29-Apr-2022 12:29:48 UTC] PHP Warning:  mysqli::query(): Empty query in /home1/ouraspire/public_html/panel/admin/epin_requests_received.php on line 140
+[29-Apr-2022 12:29:48 UTC] PHP Warning:  mysqli::query(): Empty query in /home1/ouraspire/public_html/panel/admin/epin_requests_received.php on line 140
+[29-Apr-2022 12:29:48 UTC] PHP Warning:  mysqli::query(): Empty query in /home1/ouraspire/public_html/panel/admin/epin_requests_received.php on line 140
+[29-Apr-2022 12:29:48 UTC] PHP Warning:  mysqli::query(): Empty query in /home1/ouraspire/public_html/panel/admin/epin_requests_received.php on line 140
+[29-Apr-2022 12:29:48 UTC] PHP Warning:  mysqli::query(): Empty query in /home1/ouraspire/public_html/panel/admin/epin_requests_received.php on line 140
+[06-Jul-2022 09:20:36 UTC] PHP Warning:  Undefined variable $username_url in /home1/ouraspire/public_html/panel/admin/downline_chart.php on line 519
+[07-Jul-2022 09:00:33 UTC] PHP Warning:  Undefined array key "log_id" in /home1/ouraspire/public_html/panel/php_scripts_wb/check_admin.php on line 20
+[07-Jul-2022 09:00:33 UTC] PHP Warning:  Undefined array key "log_id" in /home1/ouraspire/public_html/panel/admin/downline_chart.php on line 5
+[07-Jul-2022 09:00:33 UTC] PHP Warning:  Undefined variable $username_url in /home1/ouraspire/public_html/panel/admin/downline_chart.php on line 519
+[07-Jul-2022 09:00:33 UTC] PHP Warning:  Undefined array key "log_username" in /home1/ouraspire/public_html/panel/admin/common/main_menu.php on line 2
+[07-Jul-2022 09:00:33 UTC] PHP Warning:  Undefined array key "log_id" in /home1/ouraspire/public_html/panel/php_scripts_wb/check_admin.php on line 20
+[07-Jul-2022 09:00:33 UTC] PHP Warning:  Undefined array key "log_username" in /home1/ouraspire/public_html/panel/admin/common/main_menu.php on line 2
+[26-Jul-2022 10:47:19 UTC] PHP Warning:  Undefined array key "log_id" in /home1/ouraspire/public_html/panel/php_scripts_wb/check_admin.php on line 20
+[26-Jul-2022 10:47:19 UTC] PHP Warning:  Undefined array key "log_username" in /home1/ouraspire/public_html/panel/admin/common/main_menu.php on line 2
+[26-Jul-2022 10:47:19 UTC] PHP Warning:  Undefined array key "log_id" in /home1/ouraspire/public_html/panel/php_scripts_wb/check_admin.php on line 20
+[26-Jul-2022 10:47:19 UTC] PHP Warning:  Undefined array key "log_id" in /home1/ouraspire/public_html/panel/admin/index.php on line 14
+[26-Jul-2022 10:47:19 UTC] PHP Warning:  Undefined array key "log_username" in /home1/ouraspire/public_html/panel/admin/index.php on line 34
+[26-Jul-2022 10:47:19 UTC] PHP Warning:  Undefined array key "log_id" in /home1/ouraspire/public_html/panel/php_scripts_wb/check_admin.php on line 20
+[26-Jul-2022 10:47:19 UTC] PHP Warning:  Undefined array key "log_username" in /home1/ouraspire/public_html/panel/admin/common/main_menu.php on line 2
+[26-Jul-2022 10:47:19 UTC] PHP Warning:  Undefined array key "log_name" in /home1/ouraspire/public_html/panel/admin/index.php on line 129
+[26-Jul-2022 10:47:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/ouraspire/public_html/panel/admin/index.php on line 144
+[26-Jul-2022 10:47:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/ouraspire/public_html/panel/admin/index.php on line 145
+[26-Jul-2022 10:47:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/ouraspire/public_html/panel/admin/index.php on line 146
+[14-Aug-2022 10:18:02 UTC] PHP Warning:  Undefined variable $username_url in /home1/ouraspire/public_html/panel/admin/downline_chart.php on line 519
+[15-Aug-2022 14:36:00 UTC] PHP Warning:  Undefined array key "log_id" in /home1/ouraspire/public_html/panel/php_scripts_wb/check_admin.php on line 20
+[15-Aug-2022 14:36:00 UTC] PHP Warning:  Undefined array key "log_username" in /home1/ouraspire/public_html/panel/admin/common/main_menu.php on line 2
+[12-Jan-2023 18:17:33 UTC] PHP Warning:  Undefined array key "log_id" in /home1/ouraspire/public_html/panel/php_scripts_wb/check_admin.php on line 20
+[12-Jan-2023 18:17:33 UTC] PHP Warning:  Undefined array key "log_username" in /home1/ouraspire/public_html/panel/admin/common/main_menu.php on line 2
+[12-Jan-2023 18:17:42 UTC] PHP Warning:  Undefined array key "log_id" in /home1/ouraspire/public_html/panel/php_scripts_wb/check_admin.php on line 20
+[12-Jan-2023 18:17:42 UTC] PHP Warning:  Undefined array key "log_id" in /home1/ouraspire/public_html/panel/admin/stopped_income_list.php on line 20
+[12-Jan-2023 18:17:42 UTC] PHP Warning:  Undefined array key "log_id" in /home1/ouraspire/public_html/panel/php_scripts_wb/check_admin.php on line 20
+[12-Jan-2023 18:17:42 UTC] PHP Warning:  Undefined array key "log_id" in /home1/ouraspire/public_html/panel/admin/all_incomes.php on line 202
+[12-Jan-2023 18:17:44 UTC] PHP Warning:  Undefined array key "log_id" in /home1/ouraspire/public_html/panel/php_scripts_wb/check_admin.php on line 20
+[12-Jan-2023 18:17:44 UTC] PHP Warning:  Undefined array key "log_id" in /home1/ouraspire/public_html/panel/admin/index.php on line 14
+[12-Jan-2023 18:17:44 UTC] PHP Warning:  Undefined array key "log_username" in /home1/ouraspire/public_html/panel/admin/index.php on line 34
+[12-Jan-2023 18:17:44 UTC] PHP Warning:  Undefined array key "log_name" in /home1/ouraspire/public_html/panel/admin/index.php on line 129
+[12-Jan-2023 18:17:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/ouraspire/public_html/panel/admin/index.php on line 144
+[12-Jan-2023 18:17:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/ouraspire/public_html/panel/admin/index.php on line 145
+[12-Jan-2023 18:17:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/ouraspire/public_html/panel/admin/index.php on line 146

@@ -1,0 +1,87 @@
+// JavaScript Document
+$(document).ready(function(e) {
+$("#support_center").hover(function(){
+								 $("#reports_d").finish();
+								 $("#session_d").finish();
+								 $("#support_center_d").finish();
+								 $("#personal_details_d").finish();
+								 $("#epin_d").finish();
+								 $("#genealogy_d").finish();
+							    $("#support_center_d").slideDown(300);
+							},
+							function(){
+							    $("#support_center_d").slideUp(300);
+							});
+$("#domain").hover(function(){
+								 $("#reports_d").finish();
+								 $("#session_d").finish();
+								 $("#support_center_d").finish();
+								 $("#personal_details_d").finish();
+								 $("#epin_d").finish();
+								 $("#genealogy_d").finish();
+							    $("#domain_d").slideDown(300);
+							},
+							function(){
+							    $("#domain_d").slideUp(300);
+							});
+$("#session").hover(function(){
+								 $("#reports_d").finish();
+								 $("#session_d").finish();
+								 $("#personal_details_d").finish();
+								 $("#epin_d").finish();
+								 $("#genealogy_d").finish();
+								 $("#support_center_d").finish();
+							    $("#session_d").slideDown(300);
+							},
+							function(){
+							    $("#session_d").slideUp(300);
+							});
+$("#personal_details").hover(function(){
+								 $("#reports_d").finish();
+								 $("#session_d").finish();
+								 $("#personal_details_d").finish();
+								 $("#epin_d").finish();
+								 $("#genealogy_d").finish();
+								 $("#support_center_d").finish();
+							    $("#personal_details_d").slideDown(300);
+							},
+							function(){
+							    $("#personal_details_d").slideUp(300);
+							});
+$("#epin").hover(function(){
+								 $("#reports_d").finish();
+								 $("#session_d").finish();
+								 $("#epin_d").finish();
+								 $("#genealogy_d").finish();
+								 $("#personal_details_d").finish();
+								 $("#support_center_d").finish();
+							    $("#epin_d").slideDown(300);
+							},
+							function(){
+							    $("#epin_d").slideUp(300);
+							});
+$("#genealogy").hover(function(){
+								 $("#reports_d").finish();
+								 $("#session_d").finish();
+								 $("#genealogy_d").finish();
+								 $("#epin_d").finish();
+								 $("#personal_details_d").finish();
+								 $("#support_center_d").finish();
+							    $("#genealogy_d").slideDown(300);
+							},
+							function(){
+							    $("#genealogy_d").slideUp(300);
+							});
+$("#reports").hover(function(){
+								 $("#reports_d").finish();
+								 $("#session_d").finish();
+								 $("#genealogy_d").finish();
+								 $("#epin_d").finish();
+								 $("#personal_details_d").finish();
+								 $("#support_center_d").finish();
+							    $("#reports_d").slideDown(300);
+							},
+							function(){
+							    $("#reports_d").slideUp(300);
+							});
+});

@@ -1,0 +1,139 @@
+#header
+{
+ width:100%;
+ position:relative;
+ box-shadow:0 0 5px #000;
+ min-width:1000px;
+ z-index:999;
+}
+#container
+{
+position:relative;
+background:url(images/new_image3.jpg);
+min-width:1000px;
+optacity:2;
+}
+#heading
+{
+position:relative;
+text-align:center;
+font-size:40px;
+}
+#nav
+{
+position:relative;
+display:inline-block;
+margin:auto;
+background: url(images/back_repeat_menu.jpg) repeat-x;
+background-size:auto 100%;
+box-shadow:1px 1px 3px #000;
+-webkit-border-radius:20px;
+-moz-border-radius:20px;
+border-radius:20px;
+font-size:11px;
+}
+.menuitem{
+position:relative;
+padding:5px;
+padding-left:10px;
+padding-right:10px;
+border-right:1px solid #a3a3a3;
+}
+.menuitem:hover{
+color:#FFFFFF;
+background:#e74b24;
+}
+.active
+{
+color:#FFFFFF;
+background:#e74b24;
+}
+
+
+#footer
+{
+position:relative;
+color:#FFFFFF;
+background:#ed1c24;
+min-width:1000px;
+}
+#welcome
+{
+width:100%;
+}
+#aboutUs
+{
+  position:relative;
+  width:1000px;
+  margin:auto;
+  background-color:#fbf9f4;
+  }
+#gadget
+{
+  position:relative;
+  width:1000px;
+  margin:auto;
+
+  }
+  #gadget_container
+  {
+  position:relative;
+  width:100%;
+   background:url(images/back_image_2.jpg) no-repeat;
+   background-size:100% auto;
+  
+  }
+  #hindiText
+  {
+    position:relative;
+text-align:center;
+  }
+  #gallery
+  {
+  position:relative;
+background: url(images/Church_News___Events_Banner.png) no-repeat;
+min-width:1000px;
+optacity:2;
+  }
+  #contact
+  {
+  position:relative;
+  width:1000px;
+  margin:auto;
+  background:#fbf9f4;
+  }
+  #contact input[type=text],textarea
+  {
+   background-color:#f5cba4;
+   border-radius:8px;
+   height:28px;
+   width:100%;
+   color: #000000;
+   padding-left:4px;
+ 
+  }
+  input:-moz-placeholder{color:#eee;}
+input:-ms-input-placeholder{color:#eee;}
+input[type=submit]
+{
+background-color:#FF0000;
+color:#FFFFFF;
+height:35px;
+border-radius:8px;
+width:60px;
+}
+#shadow
+{
+position:relative;
+}
+#welcomeContainer
+{
+ position:relative;
+}
+#welcome
+{
+position:relative;
+margin:auto;
+width:800px;
+border:1px solid #000000;
+}
